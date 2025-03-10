@@ -54,9 +54,6 @@ These widely used open source frameworks can effectively help the development of
 ### Foundation Research
 | Date | Paper | Figure | Link | Code | Keywords |
 | :--- | :---- | :----- | :--- | :--- | :--- |
-<!-- | Arxiv 22.01 (NeurIPS 2022) | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/CoT.png) |[Link](https://arxiv.org/pdf/2201.11903)||chain of thought; LLM ability; complex reasoning |
-| Arxiv 22.01 (ICLR 2023) | Self-Consistency Improves Chain of Thought Reasoning in Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/self-consistency.png) ||self-consistency; majority vote; select | -->
-
 | Arxiv 23.08 (CoRR 2023) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) | [Link](https://arxiv.org/pdf/2308.08155) | [Code](https://github.com/microsoft/autogen) | multi-agent; conversation; LLM applications |
 
 <!-- ### Prompt Research
@@ -69,7 +66,6 @@ These widely used open source frameworks can effectively help the development of
 ### Communication Strategy Research
 | Date | Paper | Figure | Link | Code | Keywords |
 | :--- | :---- | :----- | :--- | :--- | :--- |
-
 | Arxiv 23.07 (ACL 2024) | ChatDev: Communicative Agents for Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/chatdev.png) |[Link](https://aclanthology.org/2024.acl-long.810.pdf)|[Code](https://github.com/OpenBMB/ChatDev)[![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev)](https://github.com/OpenBMB/ChatDev)|chat chain; multi-turn communication;|
 
 ### Cooperation Enhencing Research#通过我们以前的工作、体验式共同学习或微调模型参数等方法提高代理在多代理系统内的合作能力。
@@ -77,6 +73,8 @@ These widely used open source frameworks can effectively help the development of
 ### Evaluation and Benchmark Research
 
 
+<!-- | Arxiv 22.01 (NeurIPS 2022) | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/CoT.png) |[Link](https://arxiv.org/pdf/2201.11903)||chain of thought; LLM ability; complex reasoning |
+| Arxiv 22.01 (ICLR 2023) | Self-Consistency Improves Chain of Thought Reasoning in Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/self-consistency.png) ||self-consistency; majority vote; select | -->
 
 
 
