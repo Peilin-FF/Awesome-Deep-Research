@@ -46,14 +46,25 @@ These widely used open source frameworks can effectively help the development of
 | 23.06 | ollama | A framework that simplifies the development of large-scale machine learning models | [Link](https://github.com/ollama/ollama)[![GitHub stars](https://img.shields.io/github/stars/ollama/ollama)](https://github.com/ollama/ollama) |
 | 23.06 | vllm | A fast and easy-to-use library for LLM inference and serving | [Link](https://github.com/vllm-project/vllm)[![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm)](https://github.com/vllm-project/vllm) |
 | 23.06 | web-llm | WebLLM is a high-performance in-browser LLM inference engine that brings language model inference directly onto web browsers with hardware acceleration. | [Link](https://github.com/mlc-ai/web-llm)[![GitHub stars](https://img.shields.io/github/stars/mlc-ai/web-llm)](https://github.com/mlc-ai/web-llm) |
-| 23.08 | lightllm | A Python-based LLM (Large Language Model) inference and serving framework | [Link](https://github.com/ModelTC/lightllm)[![GitHub stars](https://img.shields.io/github/stars/ModelTC/lightllm)](https://github.com/ModelTC/lightllm) 
-
+| 23.08 | AutoGen | AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans | [Link](https://github.com/microsoft/autogen)[![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen)](https://github.com/microsoft/autogen) |
+| 23.08 | lightllm | A Python-based LLM (Large Language Model) inference and serving framework | [Link](https://github.com/ModelTC/lightllm)[![GitHub stars](https://img.shields.io/github/stars/ModelTC/lightllm)](https://github.com/ModelTC/lightllm) |
 
 
 ## Awesome Publications
-| Date | Paper | Figure | Link | Code | Cite |
+### Foundation Research
+| Date | Paper | Figure | Link | Code | Insight |
 | :--- | :---- | :----- | :--- | :--- | :--- |
-| Arxiv 23.08 (CoRR 2023) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|[Cite](https://scholar.googleusercontent.com/scholar.bib?q=info:GCFhF0ta9ycJ:scholar.google.com/&output=citation&scisdr=ClEJpx8iELfSknS1GVk:AFWwaeYAAAAAZ86zAVldwBKYl3jL5y2GQ7vPgNc&scisig=AFWwaeYAAAAAZ86zAT4hhgZ_fw8oQ1y1DbDWFCk&scisf=4&ct=citation&cd=-1&hl=en)|
+| Arxiv 23.08 (CoRR 2023) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|Prompt can improve LLM's reasoning ability; Few-Shot; One-Shot; Zero-Shot; |
+
+### Organization Strategy Research
+
+### Communication Strategy Research
+
+### Agent Society Research
+
+### Evaluation and Benchmark Research
+
+
 
 
 
