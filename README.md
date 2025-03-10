@@ -51,9 +51,9 @@ These widely used open source frameworks can effectively help the development of
 
 
 ## Awesome Publications
-| Date | Paper | Figure | Link | Code |
-| :--- | :---- | :----- | :--- | :--- |
-| Arxiv 23.08 (CoRR 2023)[Cite](https://scholar.googleusercontent.com/scholar.bib?q=info:GCFhF0ta9ycJ:scholar.google.com/&output=citation&scisdr=ClEJpx8iELfSknS1GVk:AFWwaeYAAAAAZ86zAVldwBKYl3jL5y2GQ7vPgNc&scisig=AFWwaeYAAAAAZ86zAT4hhgZ_fw8oQ1y1DbDWFCk&scisf=4&ct=citation&cd=-1&hl=en) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|
+| Date | Paper | Figure | Link | Code | Cite |
+| :--- | :---- | :----- | :--- | :--- | :--- |
+| Arxiv 23.08 (CoRR 2023) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|[Cite](https://scholar.googleusercontent.com/scholar.bib?q=info:GCFhF0ta9ycJ:scholar.google.com/&output=citation&scisdr=ClEJpx8iELfSknS1GVk:AFWwaeYAAAAAZ86zAVldwBKYl3jL5y2GQ7vPgNc&scisig=AFWwaeYAAAAAZ86zAT4hhgZ_fw8oQ1y1DbDWFCk&scisf=4&ct=citation&cd=-1&hl=en)|
 
 
 
