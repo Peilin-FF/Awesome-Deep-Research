@@ -46,22 +46,15 @@ These widely used open source frameworks can effectively help the development of
 | 23.06 | ollama | A framework that simplifies the development of large-scale machine learning models | [Link](https://github.com/ollama/ollama)[![GitHub stars](https://img.shields.io/github/stars/ollama/ollama)](https://github.com/ollama/ollama) |
 | 23.06 | vllm | A fast and easy-to-use library for LLM inference and serving | [Link](https://github.com/vllm-project/vllm)[![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm)](https://github.com/vllm-project/vllm) |
 | 23.06 | web-llm | WebLLM is a high-performance in-browser LLM inference engine that brings language model inference directly onto web browsers with hardware acceleration. | [Link](https://github.com/mlc-ai/web-llm)[![GitHub stars](https://img.shields.io/github/stars/mlc-ai/web-llm)](https://github.com/mlc-ai/web-llm) |
-| 23.08 | lightllm | A Python-based LLM (Large Language Model) inference and serving framework | [Link](https://github.com/ModelTC/lightllm)[![GitHub stars](https://img.shields.io/github/stars/ModelTC/lightllm)](https://github.com/ModelTC/lightllm) |
-
-
-<!-- | Arxiv 24.01.17 (ICML 2024)| Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model|<img width="684" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/6d32c807-3d2f-457e-8927-fa4bbe595064"> |[Link](https://arxiv.org/abs/2401.09417)|[Code](https://github.com/hustvl/Vim)| -->
+| 23.08 | lightllm | A Python-based LLM (Large Language Model) inference and serving framework | [Link](https://github.com/ModelTC/lightllm)[![GitHub stars](https://img.shields.io/github/stars/ModelTC/lightllm)](https://github.com/ModelTC/lightllm) 
 
 
 
-
-
-## Vision Application
-### Image
-
-#### Natural Image
-
-| Date      | Paper | Figure    | Link | Code         | Task |
-| :-------- | :---- | :-------- | :--- | :----------- | :--- |
+## Awesome Publications
+| Date | Paper | Figure | Link | Code |
+| :--- | :---- | :----- | :--- | :--- |
+| Arxiv 23.08 (COLM 2024) | AutoGen: Enabling Next-Gen LLM
+Applications via Multi-Agent Conversation | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/9b1d1ebf-213b-4aa8-8cc9-852a62c997bf) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/25b4bb74-5592-4953-8667-cb40ecc72914) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|
 
 
 
