@@ -52,9 +52,15 @@ These widely used open source frameworks can effectively help the development of
 
 ## Awesome Publications
 ### Foundation Research
-| Date | Paper | Figure | Link | Code | Insight |
+| Date | Paper | Figure | Link | Code | Keywords |
 | :--- | :---- | :----- | :--- | :--- | :--- |
 | Arxiv 23.08 (CoRR 2023) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|Prompt can improve LLM's reasoning ability; Few-Shot; One-Shot; Zero-Shot; |
+| Arxiv 22.01 (NeurIPS 2022) | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/CoT.png) |[Link](https://arxiv.org/pdf/2201.11903)|[Code](https://arxiv.org/pdf/2201.11903)|Chain of thought; LLM ability; Complex Reasoning |
+
+### Prompt Research
+| Date | Paper | Figure | Link | Code | Insight |
+| :--- | :---- | :----- | :--- | :--- | :--- |
+| Arxiv 20.05 | Language Models are Few-Shot Learners | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|Prompt; Few-Shot; One-Shot; Zero-Shot; |
 
 ### Organization Strategy Research
 
