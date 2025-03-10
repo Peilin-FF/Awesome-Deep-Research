@@ -25,9 +25,9 @@ AI-powered research assistant has attracted great attention in the community. It
 
 ## Related Works
 
-| Date      | Repository | Description | Stars | Link |
+| Date      | Repository | Description | Link |
 | :-------- | :---- | :-------- | :--- | :--- |
-| 24.05 | awesome-llm-apps | 一个包含使用 RAG 和 AI 代理构建的优秀 LLM 应用程序的精选集合 | [![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social)](https://github.com/Shubhamsaboo/awesome-llm-apps) | [Link](https://github.com/Shubhamsaboo/awesome-llm-apps) |
+| 24.05 | awesome-llm-apps | 一个包含使用 RAG 和 AI 代理构建的优秀 LLM 应用程序的精选集合| [Link](https://github.com/Shubhamsaboo/awesome-llm-apps)[![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social)](https://github.com/Shubhamsaboo/awesome-llm-apps) |
 
 [![GitHub forks](https://img.shields.io/github/forks/Shubhamsaboo/awesome-llm-apps?style=social)](https://github.com/Shubhamsaboo/awesome-llm-apps/fork)
 [![GitHub followers](https://img.shields.io/github/followers/Shubhamsaboo?style=social)](https://github.com/Shubhamsaboo)
