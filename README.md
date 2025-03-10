@@ -23,16 +23,14 @@ AI-powered research assistant has attracted great attention in the community. It
     - [Image](#image)
       - [Natural Image](#natural-image) -->
 
-## Mamba
-| Date      | Paper | Figure    | Link | Code         |
-| :-------- | :---- | :-------- | :--- | :----------- |
-| Arxiv 23.12.01 (COLM 2024) | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/9b1d1ebf-213b-4aa8-8cc9-852a62c997bf) ![image](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/25b4bb74-5592-4953-8667-cb40ecc72914) |[Link](https://arxiv.org/pdf/2312.00752)|[Code](https://github.com/state-spaces/mamba)|
+## Related Works
 
-## Related Survey
+| Date      | Repository | Description | Stars | Link |
+| :-------- | :---- | :-------- | :--- | :--- |
+| 24.05 | awesome-llm-apps | 一个包含使用 RAG 和 AI 代理构建的优秀 LLM 应用程序的精选集合 | [![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social)](https://github.com/Shubhamsaboo/awesome-llm-apps) | [Link](https://github.com/Shubhamsaboo/awesome-llm-apps) |
 
-| Date      | Paper | Link |
-| :-------- | :---- | :-------- |
-| 24.05 | awesome-llm-apps | [Link](https://github.com/Shubhamsaboo/awesome-llm-apps) |
+[![GitHub forks](https://img.shields.io/github/forks/Shubhamsaboo/awesome-llm-apps?style=social)](https://github.com/Shubhamsaboo/awesome-llm-apps/fork)
+[![GitHub followers](https://img.shields.io/github/followers/Shubhamsaboo?style=social)](https://github.com/Shubhamsaboo)
 
 
 
