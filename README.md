@@ -26,15 +26,18 @@ AI-powered research assistant has attracted great attention in the community. It
 ## Related Works
 
 | Date      | Repository | Description | Link |
-| :-------- | :---- | :-------- | :--- |
-| 24.05 | awesome-llm-apps | 一个包含使用 RAG 和 AI 代理构建的优秀 LLM 应用程序的精选集合| [Link](https://github.com/Shubhamsaboo/awesome-llm-apps)[![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social)](https://github.com/Shubhamsaboo/awesome-llm-apps) |
+| :-------- | :------- | :-------- | :--- |
+| 24.05 | awesome-llm-apps | A curated collection of awesome LLM apps built with RAG and AI agents. | [Link](https://github.com/Shubhamsaboo/awesome-llm-apps)[![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social)](https://github.com/Shubhamsaboo/awesome-llm-apps) |
 
 
+## Frameworks
 
+These widely used open source frameworks can effectively help the development of Deep Research.
 
+| Date      | Repository | Description | Link |
+| :-------- | :------- | :-------- | :--- |
+| 22.11 | langchain | A framework for developing applications powered by large language models (LLMs). | [Link](https://github.com/langchain-ai/langchain)[![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain)](https://github.com/langchain-ai/langchain) |
 
-| Date      | Paper | Figure    | Link | Code         |
-| :-------- | :---- | :-------- | :--- | :----------- |
 <!-- | Arxiv 24.01.17 (ICML 2024)| Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model|<img width="684" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/6d32c807-3d2f-457e-8927-fa4bbe595064"> |[Link](https://arxiv.org/abs/2401.09417)|[Code](https://github.com/hustvl/Vim)| -->
 
 
