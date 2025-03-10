@@ -3,20 +3,14 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-[NEWS.2024/11/10] **The latest version of our [paper](https://arxiv.org/abs/2404.18861v3) (v3) is now available! This update includes numerous high-quality papers on visual Mamba.**
+<!-- [NEWS.2024/11/10] **The latest version of our [paper](https://arxiv.org/abs/2404.18861v3) (v3) is now available! This update includes numerous high-quality papers on visual Mamba.** -->
 
 
 📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [fengpeilin@pjlab.org.cn](mailto:fengpeilin@pjlab.org.cn)
 
-Mamba, a novel state space model, has gained recognition across diverse domains for its exceptional performance and efficient computational complexity. By addressing the limitations inherent in traditional visual foundation architectures, Mamba emerges as a promising contender poised to catalyze advancements in the field of computer vision.
+AI-powered research assistant has attracted great attention in the community. It is a key step for mankind to move towards general artificial intelligence (AGI)! This repo is dedicated to organizing the current technical routes and papers of Deep Research, hoping to help research in this field.
 
-:star: This repository hosts a curated collection of literature associated with Mamba models in computer vision. Feel free to star and fork. For further details, refer to the following paper:
-
-**[Visual Mamba: A Survey and New Outlooks](https://arxiv.org/abs/2404.18861v2)**<br/>
-Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
-[SMART Lab](https://hkustsmartlab.github.io/), The Hong Kong University of Science and Technology<br/>
-<br/>
-
+:star: This repository hosts a curated collection of literature associated with Deep Research(AI-powered research assistant). Feel free to star and fork. 
 
 
 <!-- ## Contents
@@ -38,14 +32,9 @@ Rui Xu, Shu Yang, Yihui Wang, Yu Cai, Bo Du, [Hao Chen](https://cse.hkust.edu.hk
 
 | Date      | Paper | Link |
 | :-------- | :---- | :-------- |
-<!-- | Arxiv 24.04.15|State Space Model for New-Generation Network Alternative to Transformers: A Survey | [Link](https://arxiv.org/pdf/2404.09516) | -->
+| 24.05 | awesome-llm-apps | [Link](https://github.com/Shubhamsaboo/awesome-llm-apps) |
 
 
-## Visual Mamba Backbone Networks
-<img width="600" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/57466105/4843bead-14cd-4aa6-aecf-af9411defc49">
-
-
-[Detailed Performance Comparison](SOTA_Results.md)
 
 
 | Date      | Paper | Figure    | Link | Code         |
