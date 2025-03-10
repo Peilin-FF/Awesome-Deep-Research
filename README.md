@@ -53,8 +53,7 @@ These widely used open source frameworks can effectively help the development of
 ## Awesome Publications
 | Date | Paper | Figure | Link | Code |
 | :--- | :---- | :----- | :--- | :--- |
-| Arxiv 23.08 (COLM 2024) | AutoGen: Enabling Next-Gen LLM
-Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|
+| Arxiv 23.08 (COLM 2024) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|
 
 
 
