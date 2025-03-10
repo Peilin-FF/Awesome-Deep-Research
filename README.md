@@ -37,6 +37,10 @@ These widely used open source frameworks can effectively help the development of
 | Date      | Repository | Description | Link |
 | :-------- | :------- | :-------- | :--- |
 | 22.11 | langchain | A framework for developing applications powered by large language models (LLMs). | [Link](https://github.com/langchain-ai/langchain)[![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain)](https://github.com/langchain-ai/langchain) |
+| 22.11 | llama_index | LlamaIndex (GPT Index) is a data framework for your LLM application | [Link](https://github.com/run-llama/llama_index)[![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index)](https://github.com/run-llama/llama_index) |
+| 23.03 | AutoGPT | AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. | [Link](https://github.com/Significant-Gravitas/AutoGPT)[![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT)](https://github.com/Significant-Gravitas/AutoGPT) |
+| 23.06 | AutoChain | Building generative agents based on objectives expressed in natural language | [Link](https://github.com/Forethought-Technologies/AutoChain)[![GitHub stars](https://img.shields.io/github/stars/Forethought-Technologies/AutoChain)](https://github.com/Forethought-Technologies/AutoChain) |
+
 
 <!-- | Arxiv 24.01.17 (ICML 2024)| Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model|<img width="684" alt="image" src="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models/assets/74030174/6d32c807-3d2f-457e-8927-fa4bbe595064"> |[Link](https://arxiv.org/abs/2401.09417)|[Code](https://github.com/hustvl/Vim)| -->
 
