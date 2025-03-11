@@ -8,6 +8,7 @@
 AI-powered research assistant has attracted great attention in the community. It is a key step for mankind to move towards general artificial intelligence (AGI)! This repo is dedicated to organizing the current technical routes and papers of Deep Research, hoping to help research in this field.
 
 📢**NOTE:** This is a popular work recently, so the codes of many papers have not been open sourced. If you know that some work has been updated, please leave a message in the issues and I will update it in time!
+
 📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [fengpeilin@pjlab.org.cn](mailto:fengpeilin@pjlab.org.cn)
 :star: This repository hosts a curated collection of literature associated with Deep Research(AI-powered research assistant). Please share a ⭐ if this project does help!
 
