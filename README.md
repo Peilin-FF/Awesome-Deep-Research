@@ -72,12 +72,15 @@ These widely used open source frameworks can effectively help the development of
 | Arxiv 22.09 | Learning to Prompt for Vision-Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|Prompt; Few-Shot; One-Shot; Zero-Shot; | -->
 
 
-### C2.Coorperation Strategy Research
+### Cooperation Strategy Research
 | Date | Paper | Figure | Link | Code | Keywords |
 | :--- | :---- | :----- | :--- | :--- | :--- |
-| Arxiv 23.03 (NeurIPS 2023) | CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/camel.png) |[Link](https://arxiv.org/pdf/2303.17760)|[Code](https://github.com/camel-ai/camel)[![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel)](https://github.com/camel-ai/camel)|Agents Communication; Role Play; Multi-Agent; |
-| Arxiv 23.07 (ACL 2024) | ChatDev: Communicative Agents for Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/chatdev.png) |[Link](https://aclanthology.org/2024.acl-long.810.pdf)|[Code](https://github.com/OpenBMB/ChatDev)[![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev)](https://github.com/OpenBMB/ChatDev)|Chat Chain; Multi-turn Communication;|
-| Arxiv 23.08 (ACL 2024) | ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/chatdev.png) |[Link](https://aclanthology.org/2024.acl-long.810.pdf)|[Code](https://github.com/OpenBMB/ChatDev)[![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev)](https://github.com/OpenBMB/ChatDev)|Chat Chain; Multi-turn Communication;|
+| 2023.03 | CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2303.17760) | [Code](placeholder) | Communicative Agents; Mind Exploration; LLM Society |
+| 2023.07 | ChatDev: Communicative Agents for Software Development | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2307.07924) | [Code](placeholder) | Software Development; Multi-Agent Communication; Collaborative Development |
+| 2023.08 | ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2308.07201) | [Code](placeholder) | LLM Evaluators; Multi-Agent Debate; Evaluation Framework |
+| 2023.09 | AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2309.07870) | [Code](placeholder) | Multi-Agent Systems; Collaborative AI; Emergent Behaviors |
+| 2023.10 | AgentSims: An Open-Source Sandbox for Large Language Model Evaluation | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2310.03533) | [Code](placeholder) | LLM Evaluation; Multi-Agent Simulation; Sandbox Environment |
+| 2024.01 | AgentBench: Evaluating LLMs as Agents | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2401.08753) | [Code](placeholder) | LLM Evaluation; Agent Performance; Benchmark Framework |
 
 ### Cooperation Enhencing Research#通过我们以前的工作、体验式共同学习或微调模型参数等方法提高代理在多代理系统内的合作能力。
 
