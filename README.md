@@ -57,7 +57,7 @@ These widely used open source frameworks can effectively help the development of
 ## Awesome Publications
 ### Foundation Research
 | Date | Paper | Figure | Link | Code | Keywords |
-| :--- | :---- | :----- | :--- | :--- | :--- |
+| :--- | :---- | :--------- | :--- | :--- | :--- |
 | 2017 | Natural Language is a Programming Language: Applying Natural Language Processing to Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/natural-language-is-a-programming-language-applying-natural-language-processing-to-software-development.png) | [Link](https://drops.dagstuhl.de/storage/00lipics/lipics-vol071-snapl2017/LIPIcs.SNAPL.2017.4/LIPIcs.SNAPL.2017.4.pdf) | [Code](placeholder) | Natural Language Processing, Software Development, Bug Detection, Code Generation, Mathematical Techniques. |
 | 2022.03 | Training language models to follow instructions with human feedback | ![image](placeholder) | [Link](https://arxiv.org/abs/2203.02155) | [Code](placeholder) | language models, human feedback, fine-tuning, alignment, user intent |
 | 2022.01 | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ![image](placeholder) | [Link](https://arxiv.org/abs/2201.11903) | [Code](placeholder) | Chain-of-Thought Prompting, Large Language Models, Complex Reasoning, Chain of Thought Demonstrations, Arithmetic, Commonsense, Symbolic Reasoning Tasks, Empirical Gains, GSM8K Benchmark, Math Word Problems, Finetuned GPT-3, Verifier. |
@@ -71,7 +71,7 @@ These widely used open source frameworks can effectively help the development of
 
 ### Coorperation Strategy Research
 | Date | Paper | Figure | Link | Code | Keywords |
-| :--- | :---- | :----- | :--- | :--- | :--- |
+| :--- | :---- | :--------- | :--- | :--- | :--- |
 | 2023.03 | CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society | ![image](placeholder) | [Link](https://arxiv.org/abs/2303.17760) | [Code](placeholder) | "Communicative Agents", "Large Language Model", "Autonomous Cooperation", "Role-playing", "Instruction-following Cooperation" |
 | 2023.07 | ChatDev: Communicative Agents for Software Development | ![image](placeholder) | [Link](https://aclanthology.org/2024.acl-long.810.pdf) | [Code](placeholder) | Large Language Models (LLMs), Multi-Agent Debate Framework, Text Evaluation, Natural Language Generation (NLG), ChatEval |
 | 2023.08 | ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate | ![image](placeholder) | [Link](https://arxiv.org/abs/2308.07201) | [Code](placeholder) | ChatEval, Large Language Models (LLMs), Multi-Agent Debate, Software Development, Linguistic Communication |
@@ -83,7 +83,7 @@ These widely used open source frameworks can effectively help the development of
 
 ### Awesome AI-powered Researchers
 | Date | Paper | Figure | Link | Code | Keywords |
-| :--- | :---- | :----- | :--- | :--- | :------- |
+| :--- | :---- | :--------- | :--- | :--- | :------- |
 | 2021.02 | Documentation Matters: Human-Centered AI System to Assist Data Science Code Documentation in Computational Notebooks | ![image](placeholder) | [Link](https://arxiv.org/abs/2102.12592) | [Code](placeholder) | Computational Notebooks, Data Science, Documentation Generation, Human-Centered AI, Machine Learning Code Documentation |
 | 2021.04 | Accelerating science with human versus alien artificial intelligences | ![image](placeholder) | [Link](https://arxiv.org/abs/2104.05188) | [Code](placeholder) | Artificial Intelligence, Human Expertise, Scientific Discovery, Prediction Engines, Collective Advance |
 | 2022.02 | AI Research Associate for Early-Stage Scientific Discovery | ![image](placeholder) | [Link](https://arxiv.org/abs/2202.03199) | [Code](placeholder) | Artificial Intelligence, Scientific Discovery, Physics-Based Modeling, Hypothesis Search, Tensor-Based Computation Graphs |
@@ -174,7 +174,7 @@ These widely used open source frameworks can effectively help the development of
 ### Evaluation
 #### Evaluation Methods
 | Date | Paper | Figure | Link | Code | Keywords |
-| :--- | :---- | :----- | :--- | :--- | :------- |
+| :--- | :---- | :--------- | :--- | :--- | :------- |
 | 2021.10 | Learning to Assist Agents by Observing Them | ![image](placeholder) | [Link](https://arxiv.org/abs/2110.01311) | [Code](placeholder) | AI agent, reinforcement learning, offline data, assisting policy, gridworld scenarios. |
 | 2021.10 | Explaining Reward Functions to Humans for Better Human-Robot Collaboration | ![image](placeholder) | [Link](https://arxiv.org/abs/2110.04192) | [Code](placeholder) | Explainable AI, Reward Functions, Human-Robot Collaboration, Value Alignment, Reward Explanation Techniques |
 | 2023.04 | VISAR: A Human-AI Argumentative Writing Assistant with Visual Programming and Rapid Draft Prototyping | ![image](placeholder) | [Link](https://arxiv.org/abs/2304.07810) | [Code](placeholder) | VISAR, AI-enabled writing assistant, argumentative writing, visual programming, rapid draft prototyping. |
@@ -197,7 +197,7 @@ These widely used open source frameworks can effectively help the development of
 
 #### Benchmark
 | Date | Paper | Figure | Link | Code | Keywords |
-| :--- | :---- | :----- | :--- | :--- | :------- |
+| :--- | :---- | :--------- | :--- | :--- | :------- |
 | 2022.09 | Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering | ![image](placeholder) | [Link](https://arxiv.org/abs/2209.09513) | [Code](placeholder) | Multimodal Reasoning, Chain of Thought (CoT), Science Question Answering, Language Models, Interpretability |
 | 2023.08 | BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents | ![image](placeholder) | [Link](https://arxiv.org/abs/2308.05960) | [Code](placeholder) | Large Language Models (LLMs), Autonomous Agents, Benchmarking, Orchestrating, Multi-step Reasoning |
 | 2023.07 | MegaWika: Millions of reports and their sources across 50 diverse languages | ![image](placeholder) | [Link](https://arxiv.org/abs/2307.07049) | [Code](placeholder) | MegaWika, collaborative AI, report generation, multilingual, cross-lingual question answering. |
@@ -230,7 +230,7 @@ These widely used open source frameworks can effectively help the development of
 | 2025.02 | Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics | ![image](placeholder) | [Link](https://arxiv.org/abs/2502.15815) | [Code](placeholder) | AI, Theoretical Physics, Benchmark, Problem Solving, Research Capabilities |
 ### Rethinking
 | Date | Paper | Figure | Link | Code | Keywords |
-| :--- | :---- | :----- | :--- | :--- | :------- |
+| :--- | :---- | :--------- | :--- | :--- | :------- |
 | 2021.01 | How Much Automation Does a Data Scientist Want? | ![image](placeholder) | [Link](https://arxiv.org/abs/2101.03970) | [Code](placeholder) | Data Science, Machine Learning, Automation, User-Centered, AutoML Framework |
 | 2021.03 | Toward Building Science Discovery Machines | ![image](placeholder) | [Link](https://arxiv.org/abs/2103.15551) | [Code](placeholder) | Scientific Discovery, Machine Learning, AI Systems, Problem-Solving, Principles of Science Discovery |
 | 2021.11 | Automated scholarly paper review: Concepts, technologies, and challenges | ![image](placeholder) | [Link](https://arxiv.org/abs/2111.07533) | [Code](placeholder) | Automated scholarly paper review, Artificial intelligence, Peer review, Research evaluation, Academic publishing |
