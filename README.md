@@ -3,15 +3,15 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<!-- [NEWS.2024/11/10] **The latest version of our [paper](https://arxiv.org/abs/2404.18861v3) (v3) is now available! This update includes numerous high-quality papers on visual Mamba.** -->
-
-
-📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [fengpeilin@pjlab.org.cn](mailto:fengpeilin@pjlab.org.cn)
+<!-- [NEWS.2025/03/12] **I have preliminarily completed the arrangement of the paper, and you are welcome to correct and participate.** -->
 
 AI-powered research assistant has attracted great attention in the community. It is a key step for mankind to move towards general artificial intelligence (AGI)! This repo is dedicated to organizing the current technical routes and papers of Deep Research, hoping to help research in this field.
 
-:star: This repository hosts a curated collection of literature associated with Deep Research(AI-powered research assistant). Feel free to star and fork. 
+📢**NOTE:** This is a popular work recently, so the codes of many papers have not been open sourced. If you know that some work has been updated, please leave a message in the issues and I will update it in time!
 
+📢**NOTE:** If you have any questions, please don't hesitate to contact us at any of the following emails: [fengpeilin@pjlab.org.cn](mailto:fengpeilin@pjlab.org.cn)
+
+:star: This repository hosts a curated collection of literature associated with Deep Research(AI-powered research assistant). Please share a ⭐ if this project does help!
 
 <!-- ## Contents
 - [Awesome-Deep-Research](#awesome-deep-research)
