@@ -54,15 +54,20 @@ These widely used open source frameworks can effectively help the development of
 ### Foundation Research
 | Date | Paper | Figure | Link | Code | Keywords |
 | :--- | :---- | :----- | :--- | :--- | :--- |
-| 2017 | Natural Language is a Programming Language: Applying Natural Language Processing to Software Development | ![image](placeholder.png) | [Link](https://drops.dagstuhl.de/storage/00lipics/lipics-vol071-snapl2017/LIPIcs.SNAPL.2017.4/LIPIcs.SNAPL.2017.4.pdf) | [Code](placeholder) | Natural Language Processing, Software Development, Bug Detection, Code Generation, Mathematical Techniques. |
-| 2023.08 | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) | [Link](https://arxiv.org/pdf/2308.08155) | [Code](https://github.com/microsoft/autogen) | multi-agent; conversation; LLM applications |
+| 2017 | Natural Language is a Programming Language: Applying Natural Language Processing to Software Development | ![image](placeholder.png) | [Link](https://drops.dagstuhl.de/storage/00lipics/lipics-vol071-snapl2017/LIPIcs.SNAPL.2017.4/LIPIcs.SNAPL.2017.4.pdf) | [Code](placeholder) | Natural Language Processing; Software Development; Bug Detection |
 | 2022.01 | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2201.11903) | [Code](placeholder) | Chain-of-Thought Prompting; Large Language Models; Complex Reasoning |
 | 2022.03 | Self-Consistency Improves Chain of Thought Reasoning in Language Models | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2203.11171) | [Code](placeholder) | Chain-of-thought prompting; self-consistency; large language models |
+| 2023.07 | ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2307.16789) | [Code](placeholder) | Large Language Models; Tool-use; APIs |
 | 2023.08 | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) | [Link](https://arxiv.org/abs/2308.08155) | [Code](https://github.com/microsoft/autogen) | AutoGen; LLM applications; multi-agent conversation |
 | 2023.08 | MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2308.00352) | [Code](placeholder) | MetaGPT; Multi-Agent Collaborative Framework; Large Language Models |
-| 2023.10 | MetaAgents: Simulating Interactions of Human Behaviors for LLM-based Task-oriented Coordination via Collaborative Generative Agents | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2310.06500) | [Code](placeholder) | Large Language Models; Collaborative Generative Agents; Task-oriented Coordination |
+| 2023.10 | MetaAgents: Simulating Interactions of Human Behaviors for LLM-based Task-oriented Coordination | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2310.06500) | [Code](placeholder) | Large Language Models; Collaborative Generative Agents |
 | 2023.10 | OpenAgents: An Open Platform for Language Agents in the Wild | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2310.10634) | [Code](placeholder) | Language agents; Large language models; OpenAgents |
-| 2025.03 | Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2503.02846) | [Code](placeholder) | Large Language Models; Hallucinations; Direct Preference Optimization |
+| 2023.11 | LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2311.05437) | [Code](placeholder) | LLaVA-Plus; multimodal assistant; tool use performance |
+| 2023.11 | AcademicGPT: Empowering Academic Research | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2311.12315) | [Code](placeholder) | AcademicGPT; academic research; domain-specific GPT |
+| 2024.04 | ResearchAgent: Iterative Research Idea Generation over Scientific Literature | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2404.07738) | [Code](placeholder) | ResearchAgent; Scientific Literature; Idea Generation |
+| 2024.10 | Many Heads Are Better Than One: Improved Scientific Idea Generation | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2410.09403) | [Code](placeholder) | LLM-based multi-agent system; scientific idea generation |
+| 2025.01 | Agent Laboratory: Using LLM Agents as Research Assistants | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2501.04227) | [Code](placeholder) | Agent Laboratory; scientific discovery; research process |
+| 2025.02 | AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2502.05957) | [Code](placeholder) | AutoAgent; Zero-Code; LLM Agents |
 
 
 <!-- ### Prompt Research
@@ -72,15 +77,17 @@ These widely used open source frameworks can effectively help the development of
 | Arxiv 22.09 | Learning to Prompt for Vision-Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Autogen.png) |[Link](https://arxiv.org/pdf/2308.08155)|[Code](https://github.com/microsoft/autogen)|Prompt; Few-Shot; One-Shot; Zero-Shot; | -->
 
 
-### Cooperation Strategy Research
+### Coorperation Strategy Research
 | Date | Paper | Figure | Link | Code | Keywords |
 | :--- | :---- | :----- | :--- | :--- | :--- |
-| 2023.03 | CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2303.17760) | [Code](placeholder) | Communicative Agents; Mind Exploration; LLM Society |
-| 2023.07 | ChatDev: Communicative Agents for Software Development | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2307.07924) | [Code](placeholder) | Software Development; Multi-Agent Communication; Collaborative Development |
-| 2023.08 | ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2308.07201) | [Code](placeholder) | LLM Evaluators; Multi-Agent Debate; Evaluation Framework |
-| 2023.09 | AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2309.07870) | [Code](placeholder) | Multi-Agent Systems; Collaborative AI; Emergent Behaviors |
-| 2023.10 | AgentSims: An Open-Source Sandbox for Large Language Model Evaluation | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2310.03533) | [Code](placeholder) | LLM Evaluation; Multi-Agent Simulation; Sandbox Environment |
-| 2024.01 | AgentBench: Evaluating LLMs as Agents | ![image](placeholder.png) | [Link](https://arxiv.org/abs/2401.08753) | [Code](placeholder) | LLM Evaluation; Agent Performance; Benchmark Framework |
+
+
+
+
+
+<!-- | Arxiv 23.03 (NeurIPS 2023) | CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/camel.png) |[Link](https://arxiv.org/pdf/2303.17760)|[Code](https://github.com/camel-ai/camel)[![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel)](https://github.com/camel-ai/camel)|Agents Communication; Role Play; Multi-Agent; |
+| Arxiv 23.07 (ACL 2024) | ChatDev: Communicative Agents for Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/chatdev.png) |[Link](https://aclanthology.org/2024.acl-long.810.pdf)|[Code](https://github.com/OpenBMB/ChatDev)[![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev)](https://github.com/OpenBMB/ChatDev)|Chat Chain; Multi-turn Communication;|
+| Arxiv 23.08 (ACL 2024) | ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/chatdev.png) |[Link](https://aclanthology.org/2024.acl-long.810.pdf)|[Code](https://github.com/OpenBMB/ChatDev)[![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev)](https://github.com/OpenBMB/ChatDev)|Chat Chain; Multi-turn Communication;| -->
 
 ### Cooperation Enhencing Research#通过我们以前的工作、体验式共同学习或微调模型参数等方法提高代理在多代理系统内的合作能力。
 
