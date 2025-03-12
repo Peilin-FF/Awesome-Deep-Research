@@ -13,17 +13,21 @@ AI-powered research assistant has attracted great attention in the community. It
 
 :star: This repository hosts a curated collection of literature associated with Deep Research(AI-powered research assistant). Please share a ⭐ if this project does help!
 
-<!-- ## Contents
+## Contents
 - [Awesome-Deep-Research](#awesome-deep-research)
   - [Contents](#contents)
-  - [Mamba](#mamba)
-  - [Related Survey](#related-survey)
-  - [Visual Mamba Backbone Networks](#visual-mamba-backbone-networks)
-  - [Vision Application](#vision-application)
-    - [Image](#image)
-      - [Natural Image](#natural-image) -->
+  - [Related Surveys](#related-surveys)
+  - [Awesome Frameworks](#awesome-frameworks)
+  - [Awesome Publications](#awesome-publications)
+    - [Foundation Research](#foundation-research)
+    - [Coorperation Strategy Research](#coorperation-strategy-research)
+    - [Evaluation](#evaluation)
+      - [Evaluation Methods](#evaluation-methods)
+      - [Benchmark](#benchmark)
+    - [Awesome AI-powered Researchers](#awesome-ai-powered-researchers)
+    - [Rethinking](#rethinking)
 
-## Related Works
+## Related Surveys
 
 | Date      | Repository | Description | Link |
 | :-------- | :------- | :-------- | :--- |
@@ -283,7 +287,6 @@ These widely used open source frameworks can effectively help the development of
 | 2025.03 | Position: AI agents should be regulated based on autonomous action sequences | ![image](placeholder) | [Link](https://arxiv.org/abs/2503.04750) | [Code](placeholder) | AI agents, regulation, autonomous action sequences, existential risks, inference-time computation |
 | 2025.03 | Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing? | ![image](placeholder) | [Link](https://arxiv.org/abs/2503.05822) | [Code](placeholder) | AI researchers, scientific discovery, AI4Science, Diffusion of Innovation, integration of AI expertise |
 
-### Cooperation Enhencing Research#通过我们以前的工作、体验式共同学习或微调模型参数等方法提高代理在多代理系统内的合作能力。
 
 
 
