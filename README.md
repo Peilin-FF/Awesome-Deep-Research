@@ -58,12 +58,9 @@ These widely used open source frameworks can effectively help the development of
 ### Foundation Research
 | Date | Paper | Figure | Link | Code |
 | :--- | :---- | :--------- | :--- | :--- |
-| 2017\
-(SNAPL 2017) | Natural Language is a Programming Language: Applying Natural Language Processing to Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/natural-language-is-a-programming-language-applying-natural-language-processing-to-software-development.png) | [Link](https://drops.dagstuhl.de/storage/00lipics/lipics-vol071-snapl2017/LIPIcs.SNAPL.2017.4/LIPIcs.SNAPL.2017.4.pdf) |  |
-| 2022.03\
-(NeurIPS 2022) | Training language models to follow instructions with human feedback | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/training-language-models-to-follow-instructions-with-human-feedback.png) | [Link](https://arxiv.org/pdf/2203.02155) |  |
-| 2022.01\
-(NeurIPS 2022) | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/chain-of-thought-prompting-elicits-reasoning-in-large-language-models.png) | [Link](https://arxiv.org/pdf/2201.11903) | |
+| 2017  (SNAPL 2017) | Natural Language is a Programming Language: Applying Natural Language Processing to Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/natural-language-is-a-programming-language-applying-natural-language-processing-to-software-development.png) | [Link](https://drops.dagstuhl.de/storage/00lipics/lipics-vol071-snapl2017/LIPIcs.SNAPL.2017.4/LIPIcs.SNAPL.2017.4.pdf) |  |
+| 2022.03 （NeurIPS 2022) | Training language models to follow instructions with human feedback | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/training-language-models-to-follow-instructions-with-human-feedback.png) | [Link](https://arxiv.org/pdf/2203.02155) |  |
+| 2022.01  (NeurIPS 2022) | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/chain-of-thought-prompting-elicits-reasoning-in-large-language-models.png) | [Link](https://arxiv.org/pdf/2201.11903) | |
 | 2022.03 | Self-Consistency Improves Chain of Thought Reasoning in Language Models | ![image](placeholder) | [Link](https://arxiv.org/pdf/2203.11171) | [Code](placeholder) |
 | 2023.08 | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation | ![image](placeholder) | [Link](https://arxiv.org/pdf/2308.08155) | [Code](placeholder) |
 | 2023.08 | MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework | ![image](placeholder) | [Link](https://arxiv.org/pdf/2308.00352) | [Code](placeholder) |
