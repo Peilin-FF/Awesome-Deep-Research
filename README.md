@@ -30,7 +30,7 @@ AI-powered research assistant has attracted great attention in the community. It
 ## Related Surveys
 
 | Date      | Paper | Link |
-| :--- | :---- | :--------- | :--- | :--- |
+| :--- | :----- | :--- |
 | 23.07 | Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review | [Link](https://arxiv.org/pdf/2307.02503) |
 | 23.10 | A Survey on LLM-Generated Text Detection: Necessity, Methods, and Future Directions | [Link](https://arxiv.org/abs/2310.14724) |
 | 24.02 | Artificial Intelligence for Literature Reviews: Opportunities and Challenges | [Link](https://arxiv.org/abs/2402.08565) |
@@ -46,7 +46,7 @@ AI-powered research assistant has attracted great attention in the community. It
 These widely used open source frameworks can effectively help the development of Deep Research.
 
 | Date      | Repository | Description | Link |
-| :--- | :---- | :--------- | :--- | :--- |
+| :-------- | :------- | :-------- | :--- |
 | 22.11 | langchain | A framework for developing applications powered by large language models (LLMs). | [Link](https://github.com/langchain-ai/langchain)[![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain)](https://github.com/langchain-ai/langchain) |
 | 22.11 | llama_index | LlamaIndex (GPT Index) is a data framework for your LLM application | [Link](https://github.com/run-llama/llama_index)[![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index)](https://github.com/run-llama/llama_index) |
 | 23.03 | AutoGPT | AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. | [Link](https://github.com/Significant-Gravitas/AutoGPT)[![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT)](https://github.com/Significant-Gravitas/AutoGPT) |
