@@ -35,7 +35,7 @@ AI-powered research assistant has attracted great attention in the community. It
 | :--- | :----- | :--- |
 | 23.07 | Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review | [Link](https://arxiv.org/pdf/2307.02503) |
 | 23.10 | A Survey on LLM-Generated Text Detection: Necessity, Methods, and Future Directions | [Link](https://arxiv.org/abs/2310.14724) |
-| 24.02 (Artif. Intell 2024)| Artificial Intelligence for Literature Reviews: Opportunities and Challenges | [Link](https://arxiv.org/abs/2402.08565) |
+| 24.02  (Artif. Intell 2024)| Artificial Intelligence for Literature Reviews: Opportunities and Challenges | [Link](https://arxiv.org/abs/2402.08565) |
 | 24.04 | From Persona to Personalization: A Survey on Role-Playing Language Agents | [Link](https://arxiv.org/pdf/2404.18231) |
 | 24.05 | A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models | [Link](https://arxiv.org/pdf/2405.06211) |
 | 24.08 | A Multi-Year Grey Literature Review on AI-assisted Test Automation | [Link](https://arxiv.org/pdf/2408.06224) |
@@ -67,7 +67,7 @@ These widely used open source frameworks can effectively help the development of
 ### Foundation Research
 | Date | Paper | Figure | Link | Code |
 | :--- | :---- | :--------- | :--- | :--- |
-| 2017  (SNAPL 2017) | Natural Language is a Programming Language: Applying Natural Language Processing to Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/natural-language-is-a-programming-language-applying-natural-language-processing-to-software-development.png) | [Link](https://drops.dagstuhl.de/storage/00lipics/lipics-vol071-snapl2017/LIPIcs.SNAPL.2017.4/LIPIcs.SNAPL.2017.4.pdf) |  |
+| 2017  (SNAPL 2017)| Natural Language is a Programming Language: Applying Natural Language Processing to Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/natural-language-is-a-programming-language-applying-natural-language-processing-to-software-development.png) | [Link](https://drops.dagstuhl.de/storage/00lipics/lipics-vol071-snapl2017/LIPIcs.SNAPL.2017.4/LIPIcs.SNAPL.2017.4.pdf) |  |
 | 2022.03 （NeurIPS 2022) | Training language models to follow instructions with human feedback | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/training-language-models-to-follow-instructions-with-human-feedback.png) | [Link](https://arxiv.org/pdf/2203.02155) |  |
 | 2022.01  (NeurIPS 2022) | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/chain-of-thought-prompting-elicits-reasoning-in-large-language-models.png) | [Link](https://arxiv.org/pdf/2201.11903) | |
 | 2022.03 (ICLR 2023) | Self-Consistency Improves Chain of Thought Reasoning in Language Models  | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/self-consistency-improves-chain-of-thought-reasoning-in-language-models.png) | [Link](https://arxiv.org/pdf/2203.11171) | |
