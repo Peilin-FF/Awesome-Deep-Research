@@ -45,7 +45,7 @@ def main():
         url = sys.argv[1]
     else:
         # 从用户输入获取URL
-        url = "https://github.com/WecoAI/aideml"
+        url = "https://github.com/THUKElab/LatEval"
     
     formatted_output = format_github_url(url)
     print(formatted_output)
