@@ -45,7 +45,7 @@ def main():
         url = sys.argv[1]
     else:
         # 从用户输入获取URL
-        url = "https://github.com/OpenBMB/AgentVerse/"
+        url = "https://github.com/TDI-Lab/Generative-AI-Voting"
     
     formatted_output = format_github_url(url)
     print(formatted_output)
