@@ -45,7 +45,7 @@ def main():
         url = sys.argv[1]
     else:
         # 从用户输入获取URL
-        url = "https://github.com/UKPLab/CARE"
+        url = "https://github.com/microsoft/opendatasheets-framework"
     
     formatted_output = format_github_url(url)
     print(formatted_output)
