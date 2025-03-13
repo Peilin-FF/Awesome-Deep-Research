@@ -32,7 +32,7 @@ AI-powered research assistant has attracted great attention in the community. It
 ## Related Surveys
 
 | Date      | Paper | Link |
-| :----- | :----- | :--- |
+| :--- | :----- | :--- |
 | 23.07 | Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review | [Link](https://arxiv.org/pdf/2307.02503) |
 | 23.10 | A Survey on LLM-Generated Text Detection: Necessity, Methods, and Future Directions | [Link](https://arxiv.org/abs/2310.14724) |
 | 24.02  (Artif. Intell 2024)| Artificial Intelligence for Literature Reviews: Opportunities and Challenges | [Link](https://arxiv.org/abs/2402.08565) |
@@ -48,7 +48,7 @@ AI-powered research assistant has attracted great attention in the community. It
 These widely used open source frameworks can effectively help the development of Deep Research.
 
 | Date      | Repository | Description | Link |
-| :-------- | :------- | :-------- | :--- |
+| :--- | :------- | :-------- | :--- |
 | 22.11 | langchain | A framework for developing applications powered by large language models (LLMs). | [Link](https://github.com/langchain-ai/langchain)[![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain)](https://github.com/langchain-ai/langchain) |
 | 22.11 | llama_index | LlamaIndex (GPT Index) is a data framework for your LLM application | [Link](https://github.com/run-llama/llama_index)[![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index)](https://github.com/run-llama/llama_index) |
 | 23.03 | AutoGPT | AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. | [Link](https://github.com/Significant-Gravitas/AutoGPT)[![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT)](https://github.com/Significant-Gravitas/AutoGPT) |
@@ -66,7 +66,7 @@ These widely used open source frameworks can effectively help the development of
 ## Awesome Publications
 ### Foundation Research
 | Date | Paper | Figure | Link | Code |
-| :----- | :---- | :--------- | :--- | :--- |
+| :--- | :---- | :--------- | :--- | :--- |
 | 2017  (SNAPL 2017)| Natural Language is a Programming Language: Applying Natural Language Processing to Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/natural-language-is-a-programming-language-applying-natural-language-processing-to-software-development.png) | [Link](https://drops.dagstuhl.de/storage/00lipics/lipics-vol071-snapl2017/LIPIcs.SNAPL.2017.4/LIPIcs.SNAPL.2017.4.pdf) |  |
 | 2022.03  (NeurIPS 2022)| Training language models to follow instructions with human feedback | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/training-language-models-to-follow-instructions-with-human-feedback.png) | [Link](https://arxiv.org/pdf/2203.02155) |  |
 | 2022.01  (NeurIPS 2022)| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Foundation_Research/chain-of-thought-prompting-elicits-reasoning-in-large-language-models.png) | [Link](https://arxiv.org/pdf/2201.11903) | |
@@ -80,7 +80,7 @@ These widely used open source frameworks can effectively help the development of
 
 ### Coorperation Strategy Research
 | Date | Paper | Figure | Link | Code |
-| :----- | :---- | :--------- | :--- | :--- |
+| :--- | :---- | :--------- | :--- | :--- |
 | 2023.03  (NeurIPS 2023)| CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Coorperation_Strategy_Research/camel-communicative-agents-for-mind-exploration-of-large-language-model-society.png) | [Link](https://arxiv.org/pdf/2303.17760) | [Code](https://github.com/camel-ai/camel)[![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel)](https://github.com/camel-ai/camel) |
 | 2023.07  (ACL 2024)| ChatDev: Communicative Agents for Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Coorperation_Strategy_Research/chat-dev-communicative-agents-for-software-development.png) | [Link](https://aclanthology.org/2024.acl-long.810.pdf) | [Code](https://github.com/OpenBMB/ChatDev)[![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev)](https://github.com/OpenBMB/ChatDev) |
 | 2023.08 (ICLR 2024)| ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Coorperation_Strategy_Research/chat-eval-towards-better-llm-based-evaluators-through-multi-agent-debate.png) | [Link](https://arxiv.org/pdf/2308.07201) | [Code](https://github.com/chanchimin/ChatEval)[![GitHub stars](https://img.shields.io/github/stars/chanchimin/ChatEval)](https://github.com/chanchimin/ChatEval) |
@@ -92,7 +92,7 @@ These widely used open source frameworks can effectively help the development of
 
 ### Awesome AI-powered Researchers
 | Date | Paper | Figure | Link | Code |
-| :----- | :---- | :--------- | :--- | :--- |
+| :--- | :---- | :--------- | :--- | :--- |
 | 2021.02  (ACM Trans 2022)| Documentation Matters: Human-Centered AI System to Assist Data Science Code Documentation in Computational Notebooks | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Awesome_AI-powered_Researchers/documentation-matters-human-centered-ai-system-to-assist-data-science-code-documentation-in-computational-notebooks.png) | [Link](https://arxiv.org/pdf/2102.12592) |  |
 | 2021.04 | Accelerating science with human versus alien artificial intelligences | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Awesome_AI-powered_Researchers/accelerating-science-with-human-versus-alien-artificial-intelligences.png) | [Link](https://arxiv.org/pdf/2104.05188) |  |
 | 2022.02 (AAAI 2021)| AI Research Associate for Early-Stage Scientific Discovery | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Awesome_AI-powered_Researchers/ai-research-associate-for-early-stage-scientific-discovery.png) | [Link](https://arxiv.org/pdf/2202.03199) |  |
@@ -181,7 +181,7 @@ These widely used open source frameworks can effectively help the development of
 ### Evaluation
 #### Evaluation Methods
 | Date | Paper | Figure | Link | Code |
-| :----- | :---- | :--------- | :--- | :--- |
+| :--- | :---- | :--------- | :--- | :--- |
 | 2021.10  (ICANN 2021)| Learning to Assist Agents by Observing Them | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Evaluation_Methods/learning-to-assist-agents-by-observing-them.png) | [Link](https://arxiv.org/pdf/2110.01311) |  |
 | 2021.10 | Explaining Reward Functions to Humans for Better Human-Robot Collaboration | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Evaluation_Methods/explaining-reward-functions-to-humans-for-better-human-robot-collaboration.png) | [Link](https://arxiv.org/pdf/2110.04192) |  |
 | 2023.04  (UIST 2023)| VISAR: A Human-AI Argumentative Writing Assistant with Visual Programming and Rapid Draft Prototyping | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Evaluation_Methods/visar-a-human-ai-argumentative-writing-assistant-with-visual-programming-and-rapid-draft-prototyping.png) | [Link](https://arxiv.org/pdf/2304.07810) |  |
@@ -204,7 +204,7 @@ These widely used open source frameworks can effectively help the development of
 
 #### Benchmark
 | Date | Paper | Figure | Link | Dataset |
-| :----- | :---- | :--------- | :--- | :--- |
+| :--- | :---- | :--------- | :--- | :--- |
 | 2022.09 (NeurIPS 2022)| Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Benchmark/learn-to-explain-multimodal-reasoning-via-thought-chains-for-science-question-answering.png) | [Link](https://arxiv.org/pdf/2209.09513) | [Dataset](https://scienceqa.github.io/) |
 | 2023.08 | BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Benchmark/bolaa-benchmarking-and-orchestrating-llm-augmented-autonomous-agents.png) | [Link](https://arxiv.org/pdf/2308.05960)| [Dataset](https://github.com/salesforce/BOLAA)[![GitHub stars](https://img.shields.io/github/stars/salesforce/BOLAA)](https://github.com/salesforce/BOLAA) |
 | 2023.07 | MegaWika: Millions of reports and their sources across 50 diverse languages | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Benchmark/mega-wika-millions-of-reports-and-their-sources-across-50-diverse-languages.png) | [Link](https://arxiv.org/pdf/2307.07049) |  |
@@ -237,7 +237,7 @@ These widely used open source frameworks can effectively help the development of
 | 2025.02 | Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Benchmark/theoretical-physics-benchmark-tp-bench-a-dataset-and-study-of-ai-reasoning-capabilities-in-theoretical-physics.png) | [Link](https://arxiv.org/pdf/2502.15815) | [Project](https://tpbench.org/) |
 ### Rethinking
 | Date | Paper | Link | Keywords |
-| :----- | :---- | :--- | :------- |
+| :--- | :---- | :--- | :------- |
 | 2021.01 | How Much Automation Does a Data Scientist Want? | [Link](https://arxiv.org/abs/2101.03970) | Data Science, Machine Learning, Automation, User-Centered, AutoML Framework |
 | 2021.03 | Toward Building Science Discovery Machines | [Link](https://arxiv.org/abs/2103.15551) | Scientific Discovery, Machine Learning, AI Systems, Problem-Solving, Principles of Science Discovery |
 | 2021.11  (Inf. Fusion 2023)| Automated scholarly paper review: Concepts, technologies, and challenges | [Link](https://arxiv.org/abs/2111.07533) | Automated scholarly paper review, Artificial intelligence, Peer review, Research evaluation, Academic publishing |
