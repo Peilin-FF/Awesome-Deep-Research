@@ -72,19 +72,19 @@ These widely used open source frameworks can effectively help the development of
 ### Coorperation Strategy Research
 | Date | Paper | Figure | Link | Code |
 | :--- | :---- | :--------- | :--- | :--- |
-| 2023.03 | CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society | ![image](placeholder) | [Link](https://arxiv.org/pdf/2303.17760) | [Code](placeholder) |
-| 2023.07 | ChatDev: Communicative Agents for Software Development | ![image](placeholder) | [Link](https://aclanthology.org/2024.acl-long.810.pdf) | [Code](placeholder) |
-| 2023.08 | ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate | ![image](placeholder) | [Link](https://arxiv.org/pdf/2308.07201) | [Code](placeholder) |
-| 2023.08 | AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors | ![image](placeholder) | [Link](https://arxiv.org/pdf/2308.10848) | [Code](placeholder) |
-| 2024.06 | Generative AI Voting: Fair Collective Choice is Resilient to LLM Biases and Inconsistencies | ![image](placeholder) | [Link](https://arxiv.org/pdf/2406.11871) | [Code](placeholder) |
-| 2024.12 | LLMs as Debate Partners: Utilizing Genetic Algorithms and Adversarial Search for Adaptive Arguments | ![image](placeholder) | [Link](https://arxiv.org/pdf/2412.06229) | [Code](placeholder) |
+| 2023.03 | CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Coorperation_Strategy_Research/camel-communicative-agents-for-mind-exploration-of-large-language-model-society.png) | [Link](https://arxiv.org/pdf/2303.17760) | [Code](https://github.com/camel-ai/camel)[![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel)](https://github.com/camel-ai/camel) |
+| 2023.07 | ChatDev: Communicative Agents for Software Development | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Coorperation_Strategy_Research/camel-communicative-agents-for-mind-exploration-of-large-language-model-society.png) | [Link](https://aclanthology.org/2024.acl-long.810.pdf) | [Code](https://github.com/OpenBMB/ChatDev)[![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev)](https://github.com/OpenBMB/ChatDev) |
+| 2023.08 | ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Coorperation_Strategy_Research/chat-dev-communicative-agents-for-software-development.png) | [Link](https://arxiv.org/pdf/2308.07201) | [Code](https://github.com/chanchimin/ChatEval)[![GitHub stars](https://img.shields.io/github/stars/chanchimin/ChatEval)](https://github.com/chanchimin/ChatEval) |
+| 2023.08 | AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Coorperation_Strategy_Research/agent-verse-facilitating-multi-agent-collaboration-and-exploring-emergent-behaviors.png) | [Link](https://arxiv.org/pdf/2308.10848) | [Code](https://github.com/OpenBMB/AgentVerse)[![GitHub stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse)](https://github.com/OpenBMB/AgentVerse) |
+| 2024.06 | Generative AI Voting: Fair Collective Choice is Resilient to LLM Biases and Inconsistencies | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Coorperation_Strategy_Research/generative-ai-voting-fair-collective-choice-is-resilient-to-llm-biases-and-inconsistencies.png) | [Link](https://arxiv.org/pdf/2406.11871) | [Code](placeholder) |
+| 2024.12 | LLMs as Debate Partners: Utilizing Genetic Algorithms and Adversarial Search for Adaptive Arguments | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Coorperation_Strategy_Research/) | [Link](https://arxiv.org/pdf/2412.06229) |  |
 | 2025.01 | Debate Helps Weak-to-Strong Generalization | ![image](placeholder) | [Link](https://arxiv.org/pdf/2501.13124) | [Code](placeholder) |
 
 
 ### Awesome AI-powered Researchers
 | Date | Paper | Figure | Link | Code |
 | :--- | :---- | :--------- | :--- | :--- |
-| 2021.02 | Documentation Matters: Human-Centered AI System to Assist Data Science Code Documentation in Computational Notebooks | ![image](placeholder) | [Link](https://arxiv.org/pdf/2102.12592) | [Code](placeholder) |
+| 2021.02 | Documentation Matters: Human-Centered AI System to Assist Data Science Code Documentation in Computational Notebooks | ![image](placeholder) | [Link](https://arxiv.org/pdf/2102.12592) | [Code](https://github.com/camel-ai/camel)[![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel)](https://github.com/camel-ai/camel) |
 | 2021.04 | Accelerating science with human versus alien artificial intelligences | ![image](placeholder) | [Link](https://arxiv.org/pdf/2104.05188) | [Code](placeholder) |
 | 2022.02 | AI Research Associate for Early-Stage Scientific Discovery | ![image](placeholder) | [Link](https://arxiv.org/pdf/2202.03199) | [Code](placeholder) |
 | 2022.08 | Effidit: Your AI Writing Assistant | ![image](placeholder) | [Link](https://arxiv.org/pdf/2208.01815) | [Code](placeholder) |
