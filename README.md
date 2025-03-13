@@ -1,4 +1,4 @@
-# Awesome-Deep-Research
+# Awesome-Deep-Research-Towards AI Scientist
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -14,7 +14,7 @@ AI-powered research assistant has attracted great attention in the community. It
 :star: This repository hosts a curated collection of literature associated with Deep Research(AI-powered research assistant). Please share a ⭐ if this project does help!
 
 ## Contents
-- [Awesome-Deep-Research](#awesome-deep-research)
+- [Awesome-Deep-Research-Towards AI Scientist](#awesome-deep-research-towards-ai-scientist)
   - [Contents](#contents)
   - [Related Surveys](#related-surveys)
   - [Awesome Frameworks](#awesome-frameworks)
