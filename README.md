@@ -29,17 +29,24 @@ AI-powered research assistant has attracted great attention in the community. It
 
 ## Related Surveys
 
-| Date      | Repository | Description | Link |
-| :-------- | :------- | :-------- | :--- |
-| 24.05 | awesome-llm-apps | A curated collection of awesome LLM apps built with RAG and AI agents. | [Link](https://github.com/Shubhamsaboo/awesome-llm-apps)[![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social)](https://github.com/Shubhamsaboo/awesome-llm-apps) |
-
+| Date      | Paper | Link |
+| :--- | :---- | :--------- | :--- | :--- |
+| 23.07 | Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review | [Link](https://arxiv.org/pdf/2307.02503) |
+| 23.10 | A Survey on LLM-Generated Text Detection: Necessity, Methods, and Future Directions | [Link](https://arxiv.org/abs/2310.14724) |
+| 24.02 | Artificial Intelligence for Literature Reviews: Opportunities and Challenges | [Link](https://arxiv.org/abs/2402.08565) |
+| 24.04 | From Persona to Personalization: A Survey on Role-Playing Language Agents | [Link](https://arxiv.org/pdf/2404.18231) |
+| 24.05 | A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models | [Link](https://arxiv.org/pdf/2405.06211) |
+| 24.08 | A Multi-Year Grey Literature Review on AI-assisted Test Automation | [Link](https://arxiv.org/pdf/2408.06224) |
+| 24.12 | Beyond the Hype: A Comprehensive Review of Current Trends in Generative AI Research, Teaching Practices, and Tools | [Link](https://arxiv.org/pdf/2412.14732) |
+| 25.02 | Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation | [Link](https://arxiv.org/pdf/2502.05151) |
+| 25.02 | Survey on Vision-Language-Action Models | [Link](https://arxiv.org/pdf/2502.06851) |
 
 ## Awesome Frameworks
 
 These widely used open source frameworks can effectively help the development of Deep Research.
 
 | Date      | Repository | Description | Link |
-| :-------- | :------- | :-------- | :--- |
+| :--- | :---- | :--------- | :--- | :--- |
 | 22.11 | langchain | A framework for developing applications powered by large language models (LLMs). | [Link](https://github.com/langchain-ai/langchain)[![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain)](https://github.com/langchain-ai/langchain) |
 | 22.11 | llama_index | LlamaIndex (GPT Index) is a data framework for your LLM application | [Link](https://github.com/run-llama/llama_index)[![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index)](https://github.com/run-llama/llama_index) |
 | 23.03 | AutoGPT | AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. | [Link](https://github.com/Significant-Gravitas/AutoGPT)[![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT)](https://github.com/Significant-Gravitas/AutoGPT) |
@@ -227,62 +234,63 @@ These widely used open source frameworks can effectively help the development of
 | 2025.02 | Insect-Foundation: A Foundation Model and Large Multimodal Dataset for Vision-Language Insect Understanding | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Benchmark/insect-foundation-a-foundation-model-and-large-multimodal-dataset-for-vision-language-insect-understanding.png) | [Link](https://arxiv.org/pdf/2502.09906) | [Project](https://uark-cviu.github.io/projects/insect-foundation/) |
 | 2025.02 | Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics | ![image](https://github.com/Peilin-FF/Awesome-Deep-Research/blob/main/assets/Benchmark/theoretical-physics-benchmark-tp-bench-a-dataset-and-study-of-ai-reasoning-capabilities-in-theoretical-physics.png) | [Link](https://arxiv.org/pdf/2502.15815) | [Project](https://tpbench.org/) |
 ### Rethinking
-| Date | Paper | Figure | Link | Code |
-| :--- | :---- | :--------- | :--- | :--- |
-| 2021.01 | How Much Automation Does a Data Scientist Want? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2101.03970) | [Code](placeholder) |
-| 2021.03 | Toward Building Science Discovery Machines | ![image](placeholder) | [Link](https://arxiv.org/pdf/2103.15551) | [Code](placeholder) |
-| 2021.11 | Automated scholarly paper review: Concepts, technologies, and challenges | ![image](placeholder) | [Link](https://arxiv.org/pdf/2111.07533) | [Code](placeholder) |
-| 2023.01 | How Data Scientists Review the Scholarly Literature | ![image](placeholder) | [Link](https://arxiv.org/pdf/2301.03774) | [Code](placeholder) |
-| 2023.03 | Practices and Challenges of Using GitHub Copilot: An Empirical Study | ![image](placeholder) | [Link](https://arxiv.org/pdf/2303.08733) | [Code](placeholder) |
-| 2023.03 | A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges | ![image](placeholder) | [Link](https://arxiv.org/pdf/2303.17125) | [Code](placeholder) |
-| 2023.05 | Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems | ![image](placeholder) | [Link](https://arxiv.org/pdf/2305.02251) | [Code](placeholder) |
-| 2023.05 | Science in the Era of ChatGPT, Large Language Models and Generative AI: Challenges for Research Ethics and How to Respond | ![image](placeholder) | [Link](https://arxiv.org/pdf/2305.15299) | [Code](placeholder) |
-| 2023.06 | The Future of AI-Assisted Writing | ![image](placeholder) | [Link](https://arxiv.org/pdf/2306.16641) | [Code](placeholder) |
-| 2023.07 | What Should Data Science Education Do with Large Language Models? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2307.02792) | [Code](placeholder) |
-| 2023.07 | The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence | ![image](placeholder) | [Link](https://arxiv.org/pdf/2307.07522) | [Code](placeholder) |
-| 2023.07 | AI empowering research: 10 ways how science can benefit from AI | ![image](placeholder) | [Link](https://arxiv.org/pdf/2307.10265) | [Code](placeholder) |
-| 2023.10 | AI for Mathematics: A Cognitive Science Perspective | ![image](placeholder) | [Link](https://arxiv.org/pdf/2310.13021) | [Code](placeholder) |
-| 2023.10 | Conversational Challenges in AI-Powered Data Science: Obstacles, Needs, and Design Opportunities | ![image](placeholder) | [Link](https://arxiv.org/pdf/2310.16164) | [Code](placeholder) |
-| 2023.11 | Unraveling Downstream Gender Bias from Large Language Models: A Study on AI Educational Writing Assistance | ![image](placeholder) | [Link](https://arxiv.org/pdf/2311.03311) | [Code](placeholder) |
-| 2023.12 | Drivers and Barriers of AI Adoption and Use in Scientific Research | ![image](placeholder) | [Link](https://arxiv.org/pdf/2312.09843) | [Code](placeholder) |
-| 2023.12 | Generative AI in Writing Research Papers: A New Type of Algorithmic Bias and Uncertainty in Scholarly Work | ![image](placeholder) | [Link](https://arxiv.org/pdf/2312.10057) | [Code](placeholder) |
-| 2023.12 | Exploring the intersection of Generative AI and Software Development | ![image](placeholder) | [Link](https://arxiv.org/pdf/2312.14262) | [Code](placeholder) |
-| 2024.01 | Can AI Assistants Know What They Don't Know? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2401.13275) | [Code](placeholder) |
-| 2024.03 | "It is there, and you need it, so why do you not use it?" Achieving better adoption of AI systems by domain experts, in the case study of natural science research | ![image](placeholder) | [Link](https://arxiv.org/pdf/2403.16895) | [Code](placeholder) |
-| 2024.03 | Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals | ![image](placeholder) | [Link](https://arxiv.org/pdf/2403.14592) | [Code](placeholder) |
-| 2024.04 | Deceptive Patterns of Intelligent and Interactive Writing Assistants | ![image](placeholder) | [Link](https://arxiv.org/pdf/2404.09375) | [Code](placeholder) |
-| 2024.04 | How far are AI-powered programming assistants from meeting developers' needs? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2404.12000) | [Code](placeholder) |
-| 2024.04 | Augmenting the Author: Exploring the Potential of AI Collaboration in Academic Writing | ![image](placeholder) | [Link](https://arxiv.org/pdf/2404.16071) | [Code](placeholder) |
-| 2024.05 | From Complexity to Clarity: How AI Enhances Perceptions of Scientists and the Public's Understanding of Science | ![image](placeholder) | [Link](https://arxiv.org/pdf/2405.00706) | [Code](placeholder) |
-| 2024.05 | Transforming Software Development with Generative AI: Empirical Insights on Collaboration and Workflow | ![image](placeholder) | [Link](https://arxiv.org/pdf/2405.01543) | [Code](placeholder) |
-| 2024.05 | What Can Natural Language Processing Do for Peer Review? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2405.06563) | [Code](placeholder) |
-| 2024.05 | Using ChatGPT for Thematic Analysis | ![image](placeholder) | [Link](https://arxiv.org/pdf/2405.08828) | [Code](placeholder) |
-| 2024.06 | Using AI-Based Coding Assistants in Practice: State of Affairs, Perceptions, and Ways Forward | ![image](placeholder) | [Link](https://arxiv.org/pdf/2406.07765) | [Code](placeholder) |
-| 2024.06 | Explain the Black Box for the Sake of Science: the Scientific Method in the Era of Generative Artificial Intelligence | ![image](placeholder) | [Link](https://arxiv.org/pdf/2406.10557) | [Code](placeholder) |
-| 2024.06 | Boosting Scientific Concepts Understanding: Can Analogy from Teacher Models Empower Student Models? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2406.11375) | [Code](placeholder) |
-| 2024.07 | Large Language Models as Misleading Assistants in Conversation | ![image](placeholder) | [Link](https://arxiv.org/pdf/2407.11789) | [Code](placeholder) |
-| 2024.07 | The Great AI Witch Hunt: Reviewers Perception and (Mis)Conception of Generative AI in Research Writing | ![image](placeholder) | [Link](https://arxiv.org/pdf/2407.12015) | [Code](placeholder) |
-| 2024.07 | Exploring the Evidence-Based Beliefs and Behaviors of LLM-Based Programming Assistants | ![image](placeholder) | [Link](https://arxiv.org/pdf/2407.13900) | [Code](placeholder) |
-| 2024.08 | Generative AI Tools in Academic Research: Applications and Implications for Qualitative and Quantitative Research Methodologies | ![image](placeholder) | [Link](https://arxiv.org/pdf/2408.06872) | [Code](placeholder) |
-| 2024.09 | Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions | ![image](placeholder) | [Link](https://arxiv.org/pdf/2409.08937) | [Code](placeholder) |
-| 2024.09 | Towards Ethical Personal AI Applications: Practical Considerations for AI Assistants with Long-Term Memory | ![image](placeholder) | [Link](https://arxiv.org/pdf/2409.11192) | [Code](placeholder) |
-| 2024.09 | Mining Causality: AI-Assisted Search for Instrumental Variables | ![image](placeholder) | [Link](https://arxiv.org/pdf/2409.14202) | [Code](placeholder) |
-| 2024.10 | The why, what, and how of AI-based coding in scientific research | ![image](placeholder) | [Link](https://arxiv.org/pdf/2410.02156) | [Code](placeholder) |
-| 2024.10 | How Does the Disclosure of AI Assistance Affect the Perceptions of Writing? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2410.04545) | [Code](placeholder) |
-| 2024.10 | Need Help? Designing Proactive AI Assistants for Programming | ![image](placeholder) | [Link](https://arxiv.org/pdf/2410.04596) | [Code](placeholder) |
-| 2024.11 | Disrupting Test Development with AI Assistants | ![image](placeholder) | [Link](https://arxiv.org/pdf/2411.02328) | [Code](placeholder) |
-| 2024.11 | AI-Empowered Human Research Integrating Brain Science and Social Sciences Insights | ![image](placeholder) | [Link](https://arxiv.org/pdf/2411.12761) | [Code](placeholder) |
-| 2024.11 | Probing the limitations of multimodal language models for chemistry and materials research | ![image](placeholder) | [Link](https://arxiv.org/pdf/2411.16955) | [Code](placeholder) |
-| 2024.12 | The impact of AI on engineering design procedures for dynamical systems | ![image](placeholder) | [Link](https://arxiv.org/pdf/2412.12230) | [Code](placeholder) |
-| 2024.12 | Hints Help Finding and Fixing Bugs Differently in Python and Text-based Program Representations | ![image](placeholder) | [Link](https://arxiv.org/pdf/2412.12471) | [Code](placeholder) |
-| 2025.01 | Experience with GitHub Copilot for Developer Productivity at Zoominfo | ![image](placeholder) | [Link](https://arxiv.org/pdf/2501.13282) | [Code](placeholder) |
-| 2025.01 | Towards Decoding Developer Cognition in the Age of AI Assistants | ![image](placeholder) | [Link](https://arxiv.org/pdf/2501.02684) | [Code](placeholder) |
-| 2025.01 | "It makes you think": Provocations Help Restore Critical Thinking to AI-Assisted Knowledge Work | ![image](placeholder) | [Link](https://arxiv.org/pdf/2501.17247) | [Code](placeholder) |
-| 2025.02 | Evaluating Sakana's AI Scientist for Autonomous Research: Wishful Thinking or an Emerging Reality Towards 'Artificial Research Intelligence' (ARI)? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2502.14297) | [Code](placeholder) |
-| 2025.02 | Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2502.15657) | [Code](placeholder) |
-| 2025.02 | Performance Evaluation of Large Language Models in Statistical Programming | ![image](placeholder) | [Link](https://arxiv.org/pdf/2502.13117) | [Code](placeholder) |
-| 2025.03 | Position: AI agents should be regulated based on autonomous action sequences | ![image](placeholder) | [Link](https://arxiv.org/pdf/2503.04750) | [Code](placeholder) |
-| 2025.03 | Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing? | ![image](placeholder) | [Link](https://arxiv.org/pdf/2503.05822) | [Code](placeholder) |
+| Date | Paper | Link | Keywords |
+| :--- | :---- | :--- | :------- |
+| 2021.01 | How Much Automation Does a Data Scientist Want? | [Link](https://arxiv.org/abs/2101.03970) | Data Science, Machine Learning, Automation, User-Centered, AutoML Framework |
+| 2021.03 | Toward Building Science Discovery Machines | [Link](https://arxiv.org/abs/2103.15551) | Scientific Discovery, Machine Learning, AI Systems, Problem-Solving, Principles of Science Discovery |
+| 2021.11 | Automated scholarly paper review: Concepts, technologies, and challenges | [Link](https://arxiv.org/abs/2111.07533) | Automated scholarly paper review, Artificial intelligence, Peer review, Research evaluation, Academic publishing |
+| 2023.01 | How Data Scientists Review the Scholarly Literature | [Link](https://arxiv.org/abs/2301.03774) | Data Scientists, Scholarly Literature, Literature Review Practices, Information Overload, Interdisciplinary Field |
+| 2023.03 | Practices and Challenges of Using GitHub Copilot: An Empirical Study | [Link](https://arxiv.org/abs/2303.08733) | GitHub Copilot, AI Pair Programmer, programming languages, IDEs, challenges |
+| 2023.03 | A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges | [Link](https://arxiv.org/abs/2303.17125) | AI Programming Assistants, Usability, Developers, Software Engineering, Cognitive Effort |
+| 2023.05 | Automated Scientific Discovery: From Equation Discovery to Autonomous Discovery Systems | [Link](https://arxiv.org/abs/2305.02251) | Automated Scientific Discovery, Equation Discovery, Autonomous Discovery Systems, Deep Neural Networks, Nobel Turing Grand Challenge |
+| 2023.05 | Science in the Era of ChatGPT, Large Language Models and Generative AI: Challenges for Research Ethics and How to Respond | [Link](https://arxiv.org/abs/2305.15299) | Artificial Intelligence, Research Ethics, ChatGPT, Generative AI, Scientific Integrity |
+| 2023.06 | The Future of AI-Assisted Writing | [Link](https://arxiv.org/abs/2306.16641) | Artificial Intelligence, Natural Language Generation, AI-Assisted Writing, Information Retrieval, User Study |
+| 2023.07 | What Should Data Science Education Do with Large Language Models? | [Link](https://arxiv.org/abs/2307.02792) | Large Language Models, Data Science Education, ChatGPT, AI-guided Programming, Pedagogy Evolution |
+| 2023.07 | The Future of Fundamental Science Led by Generative Closed-Loop Artificial Intelligence | [Link](https://arxiv.org/abs/2307.07522) | Artificial Intelligence, Generative AI, Large Language Models, Scientific Discovery, Fundamental Science |
+| 2023.07 | AI empowering research: 10 ways how science can benefit from AI | [Link](https://arxiv.org/abs/2307.10265) | Artificial Intelligence, Scientific Research, Data Analysis, Human-AI Collaboration, Creativity in Science |
+| 2023.10 | AI for Mathematics: A Cognitive Science Perspective | [Link](https://arxiv.org/abs/2310.13021) | Artificial Intelligence, Mathematics, Cognitive Science, Large Language Models, Mathematical Systems |
+| 2023.10 | Conversational Challenges in AI-Powered Data Science: Obstacles, Needs, and Design Opportunities | [Link](https://arxiv.org/abs/2310.16164) | Large Language Models, data science, conversational challenges, design recommendations, AI-powered chatbots |
+| 2023.11 | Unraveling Downstream Gender Bias from Large Language Models: A Study on AI Educational Writing Assistance | [Link](https://arxiv.org/abs/2311.03311) | Large Language Models, Gender Bias, AI Writing Support, Educational Writing, Bias Transfer |
+| 2023.12 | Drivers and Barriers of AI Adoption and Use in Scientific Research | [Link](https://arxiv.org/abs/2312.09843) | Artificial Intelligence, Adoption, Scientific Research, Human Capital, Barriers and Drivers |
+| 2023.12 | Generative AI in Writing Research Papers: A New Type of Algorithmic Bias and Uncertainty in Scholarly Work | [Link](https://arxiv.org/abs/2312.10057) | Generative AI, Algorithmic Bias, Uncertainty, Scholarly Work, Research Manuscripts |
+| 2023.12 | Exploring the intersection of Generative AI and Software Development | [Link](https://arxiv.org/abs/2312.14262) | Generative AI, Software Engineering, Zero-shot prompting, Multimodal chain-of-thought, Vector embeddings |
+| 2024.01 | Can AI Assistants Know What They Don't Know? | [Link](https://arxiv.org/abs/2401.13275) | AI Assistants, Large Language Models (LLMs), Open-domain Question Answering, Factual Errors, "I don't know" (Idk) dataset |
+| 2024.03 | "It is there, and you need it, so why do you not use it?" Achieving better adoption of AI systems by domain experts, in the case study of natural science research | [Link](https://arxiv.org/abs/2403.16895) | Artificial Intelligence, adoption, domain experts, natural science research, human-AI collaboration |
+| 2024.03 | Envisioning the Next-Generation AI Coding Assistants: Insights & Proposals | [Link](https://arxiv.org/abs/2403.14592) | AI coding assistants, in-IDE, AI for Software Engineering, backend designs, app data collection |
+| 2024.04 | Deceptive Patterns of Intelligent and Interactive Writing Assistants | [Link](https://arxiv.org/abs/2404.09375) | Large Language Models, Intelligent Writing Assistants, Deceptive Design Patterns, Chatbot-like UI, Interaction Design Impact |
+| 2024.04 | How far are AI-powered programming assistants from meeting developers' needs? | [Link](https://arxiv.org/abs/2404.12000) | AI-powered programming assistants, software development tasks, code quality, productivity, user experience |
+| 2024.04 | Augmenting the Author: Exploring the Potential of AI Collaboration in Academic Writing | [Link](https://arxiv.org/abs/2404.16071) | Generative AI, Academic Writing, Prompt Design, Human-Computer Interaction, AI Collaboration |
+| 2024.05 | From Complexity to Clarity: How AI Enhances Perceptions of Scientists and the Public's Understanding of Science | [Link](https://arxiv.org/abs/2405.00706) | AI, science communication, public understanding, linguistic simplicity, scientific dissemination |
+| 2024.05 | Transforming Software Development with Generative AI: Empirical Insights on Collaboration and Workflow | [Link](https://arxiv.org/abs/2405.01543) | Generative AI, software development, collaboration, workflow, ChatGPT |
+| 2024.05 | What Can Natural Language Processing Do for Peer Review? | [Link](https://arxiv.org/abs/2405.06563) | Natural Language Processing, Peer Review, Scientific Articles, Quality Control, Large Language Models |
+| 2024.05 | Using ChatGPT for Thematic Analysis | [Link](https://arxiv.org/abs/2405.08828) | AI-driven tools, qualitative thematic analysis, GPT model, research efficiency, ethical concerns |
+| 2024.06 | Using AI-Based Coding Assistants in Practice: State of Affairs, Perceptions, and Ways Forward | [Link](https://arxiv.org/abs/2406.07765) | AI assistants, software development, usage patterns, developer perceptions, future improvements |
+| 2024.06 | Explain the Black Box for the Sake of Science: the Scientific Method in the Era of Generative Artificial Intelligence | [Link](https://arxiv.org/abs/2406.10557) | Scientific Method, Generative Artificial Intelligence, Explainable AI, Scientific Discovery, Interpretability-guided Explanations (IGEs) |
+| 2024.06 | Boosting Scientific Concepts Understanding: Can Analogy from Teacher Models Empower Student Models? | [Link](https://arxiv.org/abs/2406.11375) | Analogy, Teacher Models, Student Models, Scientific Concepts Understanding, Analogical Reasoning |
+| 2024.07 | Large Language Models as Misleading Assistants in Conversation | [Link](https://arxiv.org/abs/2407.11789) | Large Language Models, Misleading Assistants, Conversation, Deception, Reading Comprehension Task |
+| 2024.07 | The Great AI Witch Hunt: Reviewers Perception and (Mis)Conception of Generative AI in Research Writing | [Link](https://arxiv.org/abs/2407.12015) | Generative AI, peer reviewers, research writing, AI-augmented manuscripts, impartial evaluations |
+| 2024.07 | Exploring the Evidence-Based Beliefs and Behaviors of LLM-Based Programming Assistants | [Link](https://arxiv.org/abs/2407.13900) | Artificial Intelligence, Large Language Models, Software Engineering, Evidence-Based Practices, Programming Assistants |
+| 2024.08 | Generative AI Tools in Academic Research: Applications and Implications for Qualitative and Quantitative Research Methodologies | [Link](https://arxiv.org/abs/2408.06872) | Generative Artificial Intelligence, academic research, qualitative research, quantitative research, ethical implications |
+| 2024.09 | Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions | [Link](https://arxiv.org/abs/2409.08937) | Human-AI collaborative text generation, hallucinations, cognitive forcing functions, data quality assessment, Large Language Models (LLMs) |
+| 2024.09 | Towards Ethical Personal AI Applications: Practical Considerations for AI Assistants with Long-Term Memory | [Link](https://arxiv.org/abs/2409.11192) | Long-Term Memory, Personal AI Assistants, Ethical Considerations, Large Language Models, Deployment Implications |
+| 2024.09 | Mining Causality: AI-Assisted Search for Instrumental Variables | [Link](https://arxiv.org/abs/2409.14202) | Instrumental Variables, Causal Inference, Large Language Models, Counterfactual Reasoning, Regression Discontinuity Design |
+| 2024.10 | The why, what, and how of AI-based coding in scientific research | [Link](https://arxiv.org/abs/2410.02156) | AI-based coding, scientific research, large language models, coding assistance, workflow strategies |
+| 2024.10 | How Does the Disclosure of AI Assistance Affect the Perceptions of Writing? | [Link](https://arxiv.org/abs/2410.04545) | AI assistance, writing perceptions, disclosure, quality evaluations, human-AI co-creation |
+| 2024.10 | Need Help? Designing Proactive AI Assistants for Programming | [Link](https://arxiv.org/abs/2410.04596) | Proactive AI Assistants, Programming, Large Language Models, Mixed-Initiative Interaction, User Experience |
+| 2024.11 | Disrupting Test Development with AI Assistants | [Link](https://arxiv.org/abs/2411.02328) | AI Assistants, Test Development, Software Development, Test Pyramid, Automated Testing |
+| 2024.11 | AI-Empowered Human Research Integrating Brain Science and Social Sciences Insights | [Link](https://arxiv.org/abs/2411.12761) | Artificial Intelligence, Human Research, Brain Science, Social Sciences, Human-AI Joint Research |
+| 2024.11 | Probing the limitations of multimodal language models for chemistry and materials research | [Link](https://arxiv.org/abs/2411.16955) | Artificial Intelligence, Multimodal Language Models, Chemistry, Materials Science, Benchmark Evaluation |
+| 2024.12 | The impact of AI on engineering design procedures for dynamical systems | [Link](https://arxiv.org/abs/2412.12230) | Artificial Intelligence, Engineering Design, Dynamical Systems, Mechatronic Systems, V-model Design Process |
+| 2024.12 | Hints Help Finding and Fixing Bugs Differently in Python and Text-based Program Representations | [Link](https://arxiv.org/abs/2412.12471) | AI programming assistants, bug fixing, hints, program representations, user understanding |
+| 2025.01 | Experience with GitHub Copilot for Developer Productivity at Zoominfo | [Link](https://arxiv.org/abs/2501.13282) | GitHub Copilot, Developer Productivity, Zoominfo, AI-assisted software development, Enterprise deployment |
+| 2025.01 | Towards Decoding Developer Cognition in the Age of AI Assistants | [Link](https://arxiv.org/abs/2501.02684) | AI assistants, developer productivity, cognitive load, programming tools, expertise levels |
+| 2025.01 | "It makes you think": Provocations Help Restore Critical Thinking to AI-Assisted Knowledge Work | [Link](https://arxiv.org/abs/2501.17247) | Generative AI, Critical Thinking, Knowledge Work, Provocations, Metacognitive Thinking |
+| 2025.02 | Evaluating Sakana's AI Scientist for Autonomous Research: Wishful Thinking or an Emerging Reality Towards 'Artificial Research Intelligence' (ARI)? | [Link](https://arxiv.org/abs/2502.14297) | Artificial Research Intelligence (ARI), AI Scientist, autonomous research, Sakana, research automation |
+| 2025.02 | Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path? | [Link](https://arxiv.org/abs/2502.15657) | AI safety, generalist AI agents, Scientist AI, non-agentic AI, precautionary principle |
+| 2025.02 | Performance Evaluation of Large Language Models in Statistical Programming | [Link](https://arxiv.org/abs/2502.13117) | Large Language Models, Statistical Programming, SAS Programming, Performance Evaluation, Automatic Code Generation |
+| 2025.03 | Position: AI agents should be regulated based on autonomous action sequences | [Link](https://arxiv.org/abs/2503.04750) | AI agents, regulation, autonomous action sequences, existential risks, inference-time computation |
+| 2025.03 | Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing? | [Link](https://arxiv.org/abs/2503.05822) | AI researchers, scientific discovery, AI4Science, Diffusion of Innovation, integration of AI expertise |
+
 
 
 
